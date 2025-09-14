@@ -1,5 +1,5 @@
 import React from "react";
-import Tictacto from "./Tictacto";
+import Tictacto from "./components/Tictacto";
 
 function App() {
   return (
