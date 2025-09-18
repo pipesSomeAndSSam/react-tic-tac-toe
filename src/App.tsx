@@ -1,11 +1,11 @@
 import React from "react";
-import Tictacto from "./Tictacto";
+import Container from "./components/Container.tsx";
 
 function App() {
   return (
-    <div>
-      <Tictacto />
-    </div>
+    <>
+      <Container />
+    </>
   );
 }
 
