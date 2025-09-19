@@ -3,9 +3,9 @@ import Container from "./components/Container.tsx";
 
 function App() {
   return (
-    <>
+    <div>
       <Container />
-    </>
+    </div>
   );
 }
 
